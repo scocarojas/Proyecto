@@ -1,0 +1,24 @@
+Billar Pool. Santiago Coca Rojas
+
+Manual de usuario
+
+1)Para poder jugar este juego se necesita tener instalado el lenguaje de programación Python 3 o versiones posteriores.
+2)Al momento de poseer el archivo del juego,  que es un archivo .py, desde IDLE, que es el entorno de trabajo predeterminado de este lenguaje, se debe cargar dicho archivo.
+3)Para ejecutarlo simplemente se presiona la tecla F5 y el juego empezará a correr.
+4)En pantalla aparcerá una ventana con el juego, y esta tendrá unos botones, que son los que se utilizan para darle dirección y velecidad a la bola blanca.
+
+Reglas
+
+1)En la mesa hay 16 bolas, 15 para entronerar (colores) y 1 para golpear (blanca)
+2)El jugador debe de entronerar todas las bolas que pueda en cualquiera de los 6 hoyos que tiene la mesa con la ayuda de la bola blanca, ya que esta es la única que puede golpear directamente.
+3)Cada bolas entronerada equivale a 15 puntos.
+4)El jugador cuneta con un máximo de 30 tiros.
+5)Si el jugador sobrepasa la cantidad de tiros, pierde.
+6)Si el jugador entronera la bola blanca,  perderá el puntaje obtenido por haber entronerado la bola anterior.
+7)Si el jugador entronera la bola negra antes de entronerar todas las bolas de colores, perderá el juego.
+
+Objetivo
+
+El principal objetivo del juego es entronerar todas las bolas, eso si, siguiendo un pequeño orden establecido. El jugador debe de meter todas las bolas de colores con el requisito de que la bola negra, la número 8. 
+
+
